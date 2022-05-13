@@ -1,0 +1,12 @@
+.contador {
+    min-width: 300px; /*Permite expandirse para que sigan entrando los numeros de 3 cifras o mas*/
+    height: 300px;
+    font-size: 160px;
+    padding: 25px;
+    color: aliceblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 8px solid white;
+    margin-bottom: 15px;
+}
